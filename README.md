@@ -6,3 +6,4 @@ The project's objectives were to:
 
 •	Raise awareness and educate employees in targeted firms.
 
+Programming Language used: Python
